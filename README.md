@@ -1,6 +1,6 @@
 # 3D Car Show
 
-Welcome to the 3D Car Show project! This web application showcases a dynamic and interactive 3D environment where users can explore various car models using React Three Fiber and Three.js. The project aims to provide an engaging user experience with modern web technologies.
+Welcome to the **3D Car Show project**! This web application showcases a **dynamic and interactive 3D** environment where users can explore various car models using React Three Fiber and Three.js. The project aims to provide an engaging user experience with modern web technologies.
 
 ## Table of Contents
 
@@ -97,6 +97,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Thank you to the creators of **Three.js** and **React Three Fiber** for their amazing work that made this project possible.
-- Special thanks to Gauransh Goel and Sujal Gupta for their guidance and support throughout the development process.
+- Special thanks to #Gauransh Goel and #Sujal Gupta for their guidance and support throughout the development process.
 
 ---
