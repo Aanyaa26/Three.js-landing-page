@@ -97,6 +97,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Thank you to the creators of **Three.js** and **React Three Fiber** for their amazing work that made this project possible.
-- Special thanks to #Gauransh Goel and #Sujal Gupta for their guidance and support throughout the development process.
+- Special thanks to Gauransh Goel and Sujal Gupta for their guidance and support throughout the development process.
 
 ---
