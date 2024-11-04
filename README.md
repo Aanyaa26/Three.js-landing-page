@@ -6,7 +6,7 @@ Welcome to the **3D Car Show project**! This web application showcases a **dynam
 
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
+- [Features](#features)  
 - [Getting Started](#getting-started)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
